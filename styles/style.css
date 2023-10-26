@@ -28,7 +28,7 @@
 .intro{
     width: 486px;
     height: 27px;
-    margin: (110px, 120px);
+    margin-top: 70px;
     gap: 12px;
 
 }
@@ -102,20 +102,20 @@ span{
     line-height: 27px;
     letter-spacing: 0em;
     text-align: left;
-
+    margin-top: 5px;
 }
 .primary{
-    padding: 8px, 24px, 8px, 24px;
+    padding: 8px 24px 8px 24px;
     border-radius: 8px;
     background: #FDC435;
 }
 .secondary{
-    padding: 8px, 24px, 8px, 24px;
+    padding: 8px 24px 8px 24px;
     border-radius: 8px;
     border: 2px solid #25282B
 }
 .btns{
-    margin: 0 auto;
+    margin-bottom: 0 auto;
 }
 .title{
     text-align: center;
@@ -127,4 +127,8 @@ span{
 .frame{
     width: 55%;
     margin: 20px 20px;
+}
+#myprojects img{
+    width: 500px;
+    height: 300px;
 }
