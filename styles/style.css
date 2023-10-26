@@ -50,7 +50,7 @@ a {
 }
 h1{
 font-family: Playfair Display;
-font-size: 64px;
+font-size: 40px;
 font-weight: 700;
 line-height: 77px;
 letter-spacing: 0em;
@@ -115,12 +115,14 @@ span{
     border: 2px solid #25282B
 }
 .btns{
+    margin-top: 50px;
     margin-bottom: 0 auto;
 }
 .title{
     text-align: center;
 }
 .content{
+    margin: 50px;
     background: #FFFFFF;
     
 }
@@ -128,7 +130,7 @@ span{
     width: 55%;
     margin: 20px 20px;
 }
-#myprojects img{
+.image img{
     width: 500px;
     height: 300px;
 }
